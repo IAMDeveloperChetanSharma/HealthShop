@@ -1,4 +1,4 @@
-# HealthShop RN
+# Basic Health + Shop RN Application
 
 React Native + Expo application for the Senior Mobile Developer assignment.
 
