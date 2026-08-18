@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "HealthShop",
+    "slug": "healthshop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "healthshop",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.healthshop"
+    },
+    "android": {
+      "package": "com.example.healthshop",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "android.permission.health.READ_HEART_RATE",
+        "android.permission.health.READ_OXYGEN_SATURATION",
+        "android.permission.health.READ_STEPS"
+      ]
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-dev-client",
+      "./plugins/withHealthKit",
+      "./plugins/withHealthConnect",
+      "expo-status-bar",
+      "expo-web-browser"
+    ]
+  }
+}

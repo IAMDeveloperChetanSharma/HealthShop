@@ -1,0 +1,10 @@
+{
+  "platforms": ["android", "ios"],
+  "moduleName": "NativeHealth",
+  "android": {
+    "modules": ["expo.modules.nativehealth.NativeHealthModule"]
+  },
+  "ios": {
+    "modules": ["NativeHealthModule"]
+  }
+}

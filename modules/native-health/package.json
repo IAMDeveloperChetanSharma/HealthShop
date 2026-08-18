@@ -1,0 +1,6 @@
+{
+  "name": "native-health",
+  "version": "1.0.0",
+  "main": "src/NativeHealth.ts",
+  "private": true
+}
