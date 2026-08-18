@@ -1,6 +1,6 @@
 # Basic Health + Shop RN Application
 
-React Native + Expo application for the Senior Mobile Developer assignment.
+React Native + Expo application.
 
 ## App Video
 
@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/b37fa369-a1be-4cc3-9f13-78cc445ea6fb
 
 ## Features
 
-- Login / logout and authenticated session
+- Login/logout and authenticated session
 - Health dashboard: Heart Rate, SpO₂, Steps, Battery, Connection Status
 - Mock wearable with connect/disconnect/reconnect and periodic readings
 - Native Android Health Connect integration
