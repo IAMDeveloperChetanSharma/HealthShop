@@ -2,6 +2,10 @@
 
 React Native + Expo application for the Senior Mobile Developer assignment.
 
+## App Video
+
+https://github.com/user-attachments/assets/b37fa369-a1be-4cc3-9f13-78cc445ea6fb
+
 ## Tech Stack
 
 - React Native + Expo + TypeScript
